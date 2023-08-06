@@ -36,3 +36,90 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+
+.SearchMovies {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.SearchMovies input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.SearchMovies button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
+.MovieCard {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+.MovieCard h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.MovieCard p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.MovieCard img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+.Playlist {
+  margin-top: 20px;
+}
+
+.Playlist input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.Playlist button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Playlist ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Playlist li {
+  font-size: 14px;
+  margin-bottom: 5px;
+} */
